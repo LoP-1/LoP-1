@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Miguel 👨‍💻
 
-<!--
-**LoP-1/LoP-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador backend junior especializado en Java y Spring Boot. Disfruto crear APIs robustas, seguras (JWT), y desplegarlas en VPS Linux. Me gusta aprender haciendo, colaborar en equipo y escribir código limpio.
 
-Here are some ideas to get you started:
+## 💻 Tecnologías
+- Java · Spring Boot · JWT · MySQL · PostgreSQL
+- Git · GitHub · Postman · Docker · Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos destacados
+- [Botica_API](https://github.com/LoP-1/Botica_API)
+- [PizzaAPI-WEB](https://github.com/LoP-1/PizzaAPI-WEB)
+
+## 📫 Contacto
+miguel.castillo.valero@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/miguel-castillo-v)
