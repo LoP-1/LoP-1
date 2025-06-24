@@ -3,7 +3,7 @@
 Soy desarrollador backend junior especializado en Java y Spring Boot. Disfruto crear APIs robustas, seguras (JWT), y desplegarlas en VPS Linux. Me gusta aprender haciendo, colaborar en equipo y escribir código limpio.
 
 ## 💻 Tecnologías
-- Java · Spring Boot · JWT · MySQL · PostgreSQL
+- Java · Spring Boot · JWT · MySQL
 - Git · GitHub · Postman · Docker · Linux
 
 ## 📌 Proyectos destacados
