@@ -1,8 +1,17 @@
+# Miguel Castillo
+
 Manejo Java y algunas otras cositas... 
 
-## Tecnologías
-- Java · Spring Boot · JWT · MySQL
-- Git · GitHub · Postman · Docker · Linux
+## Stack
+```json
+{
+  "languages": ["Java"],
+  "backend": ["Spring Boot", "JWT", "MySQL"],
+  "frontend": ["proximamente..."],
+  "tools": ["Git", "GitHub", "Postman", "Docker", "Linux"]
+}
+
+```
 
 ## Contacto
 miguel.castillo.valero@gmail.com  
