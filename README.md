@@ -1,6 +1,6 @@
 # Miguel Castillo
 
-Manejo Java y algunas otras cositas... 
+Web development and some other thing... 
 
 ## Stack
 ```json
