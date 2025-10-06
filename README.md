@@ -7,7 +7,7 @@ Web development and some other thing...
 {
   "languages": ["Java"],
   "backend": ["Spring Boot", "JWT", "MySQL"],
-  "frontend": ["proximamente..."],
+  "frontend": ["Angular"],
   "tools": ["Git", "GitHub", "Postman", "Docker", "Linux"]
 }
 
