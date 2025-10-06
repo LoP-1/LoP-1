@@ -6,8 +6,9 @@ Web development and some other thing...
 ```json
 {
   "languages": ["Java"],
-  "backend": ["Spring Boot", "JWT", "MySQL"],
+  "backend": ["Spring Boot"],
   "frontend": ["Angular"],
+  "Database": ["Mysql","Postgresql"],
   "tools": ["Git", "GitHub", "Postman", "Docker", "Linux"]
 }
 
