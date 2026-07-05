@@ -10,10 +10,9 @@ Actualmente enfocado en el desarrollo de soluciones robustas de alto rendimiento
 
 ```json
 {
-  "languages": ["Java 21", "JavaScript", "TypeScript", "Python", "C#"],
-  "backend": ["Spring Boot", "NestJS", "FastAPI", "WebSockets"],
-  "frontend": ["Angular", "Next.js", "HTML5", "CSS3"],
+  "languages": ["Java 21", "JavaScript", "TypeScript", "Python"],
+  "backend": ["Spring Boot", "NestJS", "FastAPI"],
+  "frontend": ["Angular", "Next.js"],
   "database": ["PostgreSQL", "MySQL", "SQL Server"],
-  "infrastructure_devops": ["Linux (Hardening)", "Docker", "Git", "GitHub", "APIs REST"],
-  "certifications": ["Cisco CCNA: Introduction to Networks"]
+  "infrastructure_devops": ["Linux", "Docker", "Git"]
 }
