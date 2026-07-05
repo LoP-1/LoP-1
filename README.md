@@ -1,15 +1,19 @@
-## Hola, soy Miguel Angel
+## Hola, soy Miguel
 
-Desarrollador enfocado en sistemas web con una fuerte pasión por la infraestructura y el despliegue en Linux. Me gusta construir sistemas escalables, configurar mis propios VPS y garantizar seguridad
+Desarrollador Full Stack e Ingeniero de Sistemas en formación. Me apasiona el diseño de arquitecturas backend escalables, la optimización de bases de datos relacionales, la infraestructura en la nube y la ciberseguridad (Linux Hardening). 
 
-## Stack
+Actualmente enfocado en el desarrollo de soluciones robustas de alto rendimiento y en la orquestación de sistemas basados en Inteligencia Artificial.
+
+---
+
+### Mi Stack Tecnológico
+
 ```json
 {
-  "languages": ["Java"],
-  "backend": ["Spring Boot"],
-  "frontend": ["Angular"],
-  "Database": ["Mysql","Postgresql"],
-  "tools": ["Git", "GitHub", "Postman", "Docker", "Linux"]
+  "languages": ["Java 21", "JavaScript", "TypeScript", "Python", "C#"],
+  "backend": ["Spring Boot", "NestJS", "FastAPI", "WebSockets"],
+  "frontend": ["Angular", "Next.js", "HTML5", "CSS3"],
+  "database": ["PostgreSQL", "MySQL", "SQL Server"],
+  "infrastructure_devops": ["Linux (Hardening)", "Docker", "Git", "GitHub", "APIs REST"],
+  "certifications": ["Cisco CCNA: Introduction to Networks"]
 }
-```
-
