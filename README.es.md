@@ -20,10 +20,3 @@ Actualmente enfocado en el desarrollo de sistemas web de alto rendimiento, despl
   "architecture_and_ai": ["Clean Architecture", "MCP", "Gemini SDK"]
 }
 ```
-
----
-
-### Contacto
-
-- **LinkedIn:** [linkedin.com/in/miguel-castillo-v](https://www.linkedin.com/in/miguel-castillo-v)
-- **Email:** [miguel.castillo.valero@gmail.com](mailto:miguel.castillo.valero@gmail.com)
